@@ -1,19 +1,19 @@
 Portfolio,Type,Ann. Return (%),Volatility (%),Sharpe Ratio,Max Drawdown (%)
-SPY,Benchmark,16.32,19.35,0.658,-19.21
-Mikie Sherrill,Copycat,11.29,18.9,0.4077,-16.44
-Pete Sessions,Copycat,10.8,18.8,0.3837,-12.76
-Top20_MeanVariance,Custom,9.44,15.88,0.3686,-16.25
-Top20_EqualValue,Custom,9.44,15.88,0.3686,-16.25
-Top20_EqualShare,Custom,9.44,15.88,0.3686,-16.25
-Susie Lee,Copycat,12.36,24.27,0.3615,-17.55
-Josh Gottheimer,Copycat,10.39,24.31,0.2797,-15.79
-Top10_MeanVariance,Custom,9.53,22.33,0.2662,-23.83
-Top10_EqualValue,Custom,9.53,22.33,0.2662,-23.83
-Top10_EqualShare,Custom,9.53,22.33,0.2662,-23.83
-Lois Frankel,Copycat,7.02,16.68,0.2055,-8.71
-Top5_EqualValue,Custom,5.82,27.97,0.0799,-26.03
-Top5_EqualShare,Custom,5.82,27.97,0.0799,-26.03
-Top5_MeanVariance,Custom,5.82,27.97,0.0799,-26.03
-Earl Blumenauer,Copycat,2.65,15.63,-0.0599,-10.38
-Kevin Hern,Copycat,2.3,15.7,-0.082,-13.58
-Nancy Pelosi,Copycat,-7.99,25.15,-0.4603,-14.77
+SPY,Benchmark,16.32,19.35,0.6585,-19.21
+Mikie Sherrill,Copycat,11.29,18.9,0.4082,-16.44
+Pete Sessions,Copycat,10.8,18.8,0.3842,-12.76
+Top20_EqualValue,Custom,9.44,15.88,0.3692,-16.25
+Top20_MeanVariance,Custom,9.44,15.88,0.3692,-16.25
+Susie Lee,Copycat,12.36,24.27,0.3619,-17.55
+Top10_EqualShare,Custom,11.24,24.24,0.3163,-26.68
+Josh Gottheimer,Copycat,10.39,24.31,0.2801,-15.79
+Top5_EqualShare,Custom,12.85,33.32,0.2783,-27.91
+Top10_EqualValue,Custom,9.53,22.33,0.2667,-23.83
+Top10_MeanVariance,Custom,9.53,22.33,0.2667,-23.83
+Lois Frankel,Copycat,7.02,16.68,0.2061,-8.71
+Top5_MeanVariance,Custom,5.82,27.97,0.0803,-26.03
+Top5_EqualValue,Custom,5.82,27.97,0.0803,-26.03
+Earl Blumenauer,Copycat,2.66,15.63,-0.059,-10.38
+Kevin Hern,Copycat,2.3,15.7,-0.0812,-13.58
+Top20_EqualShare,Custom,2.22,16.06,-0.0844,-17.42
+Nancy Pelosi,Copycat,-7.99,25.15,-0.4599,-14.77
